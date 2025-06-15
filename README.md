@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor-game
+
 # ✊🤚✌️ Rock Paper Scissors Game (Webcam Based)
 
 This is a Python-based Rock-Paper-Scissors game that uses your **webcam** to detect hand gestures in real time with **MediaPipe** and **OpenCV**.
